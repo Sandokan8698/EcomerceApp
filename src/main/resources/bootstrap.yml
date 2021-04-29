@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: ecommerce-search
+  cloud:
+    config:
+      uri: http://localhost:8000/config-path/
